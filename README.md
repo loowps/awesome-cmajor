@@ -74,8 +74,9 @@ All of these live in [`examples/patches`](https://github.com/cmajor-lang/cmajor/
 - [olilarkin/cmajor_pirklefilters](https://github.com/olilarkin/cmajor_pirklefilters) — Will Pirkle's filter designs ported to Cmajor.
 - [olilarkin/cmajor_replicant](https://github.com/olilarkin/cmajor_replicant) — Port of the Maximilian "replicant" example.
 - [loowps/cmajor-orrery](https://github.com/loowps/cmajor-orrery) — Polymetric, variable-step-size MIDI sequencer with a Vue UI.
-- [loowps/cmajor-angular](https://github.com/loowps/cmajor-angular) — Gain patch with an Angular GUI compiled to a single web component.
-- [loowps/cmajor-vue](https://github.com/loowps/cmajor-vue) — The same idea in Vue.js, built as a CLAP.
+- [loowps/cmajor-cloud-chamber](https://github.com/loowps/cmajor-cloud-chamber) — Granular synthesizer with 8 individual play heads and a Vue UI.
+- [loowps/cmajor-angular](https://github.com/loowps/cmajor-angular) — Simple gain patch with an Angular GUI.
+- [loowps/cmajor-vue](https://github.com/loowps/cmajor-vue) — Simple gain patch with an Vue.js GUI.
 - [`#cmajorpatch` on GitHub](https://github.com/topics/cmajorpatch) — Tag your own patch repositories with this topic so others can find them.
 
 ## Embedding & Integration
